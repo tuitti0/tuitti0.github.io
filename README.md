@@ -6,6 +6,11 @@
   <title>Black Rose Tattoo</title>
   
   <style>
+      * {
+    box-sizing: border-box;
+    text-decoration: none !important; 
+  }
+    
     body {
       margin: 0;
       font-family: Arial;
