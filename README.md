@@ -28,14 +28,11 @@
       letter-spacing: 2px;
       margin: 0;
       font-weight: 700;
-      text-transform: uppercase;
-      text-decoration: none
     }
 
     header p {
       font-size: 1.2rem;
       color: #dcdcdc;
-      margin-top: 1rem;
     }
 
     section {
@@ -81,7 +78,7 @@
     }
 
     a:hover {
-      text-decoration: underline;
+      text-decoration: none;
     }
 
 
@@ -117,7 +114,7 @@
   <section id="yhteys">
     <h2>Yhteystiedot</h2>
     <p><strong>Puhelin:</strong> 040 123 4567</p>
-    <p><strong>Sähköposti:</strong> <a href="mailto:noora.blackrose@gmail.com">noora.blackrose@gmail.com</a></p>
+    <p><strong>Sähköposti:</strong> noora.blackrose@gmail.com</p>
     <p><strong>Ajanvaraus:</strong> Ota yhteyttä puhelimitse tai sähköpostilla</p>
   </section>
 
