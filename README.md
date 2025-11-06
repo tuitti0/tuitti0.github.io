@@ -4,9 +4,13 @@
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>Black Rose Tattoo</title>
+  
   <style>
       body {
       font-family: Arial;
+      margin: 0;
+      background: #f4f4f4;
+      color: #333;
     }
 
     header {
