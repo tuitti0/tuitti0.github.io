@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html lang="fi">
 <head>
   <meta charset="UTF-8" />
@@ -8,7 +8,7 @@
   <style>
     body {
       margin: 0;
-      font-family: 'Poppins', Arial, sans-serif;
+      font-family: Arial;
       background: #0e0e0e;
       color: #eaeaea;
       line-height: 1.6;
@@ -49,7 +49,7 @@
     }
 
     p {
-      font-size: 1.1rem;
+      font-size: 1rem;
       color: #ccc;
     }
 
@@ -65,7 +65,7 @@
     }
 
     #yhteys p {
-      font-size: 1.1rem;
+      font-size: 1rem;
     }
 
     strong {
@@ -81,18 +81,6 @@
       text-decoration: underline;
     }
 
-    footer {
-      text-align: center;
-      padding: 2rem;
-      background: #000;
-      color: #aaa;
-      font-size: 0.9rem;
-    }
-
-    @media (max-width: 600px) {
-      header h1 {
-        font-size: 2rem;
-      }
 
       section {
         padding: 2rem 1rem;
