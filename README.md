@@ -21,7 +21,7 @@
     }
 
     section {
-      padding: 1rem;
+      padding: 2rem;
     }
 
   </style>
@@ -39,7 +39,9 @@
     <p>
 Black Rose Tattoo on yhden henkilön tatuointistudio, joka toimii kotoisassa ja rauhallisessa ympäristössä.
 Työskentelen kotistudiolta käsin, joten saat henkilökohtaista palvelua ilman kiirettä tai hälinää.
+<p>
 Jokainen asiakas on minulle tärkeä, ja panostan siihen, että tatuointikokemus on turvallinen, huolellisesti suunniteltu ja juuri sinun näköisesi.
+</p>
 Studiolla noudatetaan tarkkoja hygieniakäytäntöjä ja käytössäni ovat laadukkaat, ammattilaistason välineet.
 Oli toiveesi sitten pieni symboli tai suurempi kokonaisuus, lähestyn jokaista projektia intohimolla ja taiteellisella otteella.
 Teen tatuointeja ajanvarauksella.
