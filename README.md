@@ -114,11 +114,11 @@
       Työskentelen kotistudiolta käsin, joten saat henkilökohtaista palvelua ilman kiirettä tai hälinää.
     </p>
     <p>
-      Jokainen asiakas on minulle tärkeä, ja panostan siihen, että tatuointikokemus on turvallinen, huolellisesti suunniteltu ja juuri sinun näköisesi.
+      Jokainen asiakas on minulle tärkeä, ja panostan siihen, että tatuointikokemus on turvallinen, huolellisesti suunniteltu ja         juuri sinun näköisesi.
       Studiolla noudatetaan tarkkoja hygieniakäytäntöjä ja käytössäni ovat laadukkaat, ammattilaistason välineet.
     </p>
     <p>
-      Oli toiveesi sitten pieni symboli tai suurempi kokonaisuus, lähestyn jokaista projektia intohimolla ja taiteellisella otteella.
+      Oli toiveesi sitten pieni symboli tai suurempi kokonaisuus, lähestyn jokaista projektia intohimolla ja taiteellisella              otteella.
       Teen tatuointeja ajanvarauksella — ota yhteyttä ja kerro ideastasi, niin suunnitellaan yhdessä jotain ainutlaatuista.
     </p>
   </section>
@@ -129,10 +129,6 @@
     <p><strong>Sähköposti:</strong> <a href="mailto:noora.blackrose@gmail.com">noora.blackrose@gmail.com</a></p>
     <p><strong>Ajanvaraus:</strong> Ota yhteyttä puhelimitse tai sähköpostilla</p>
   </section>
-
-  <footer>
-    &copy; 2025 Black Rose Tattoo — kaikki oikeudet pidätetään
-  </footer>
 
 </body>
 </html>
