@@ -1,3 +1,4 @@
+<!DOCTYPE html>
 <html lang="fi">
 <head>
   <meta charset="UTF-8" />
@@ -5,10 +6,6 @@
   <title>Black Rose Tattoo</title>
   
   <style>
-    * {
-      box-sizing: border-box;
-    }
-
     body {
       margin: 0;
       font-family: 'Poppins', Arial, sans-serif;
@@ -18,24 +15,10 @@
     }
 
     header {
-      background-size: cover;
-      background-position: center;
+      background: #000;
       text-align: center;
       color: #fff;
       padding: 5rem 1rem;
-      position: relative;
-    }
-
-    header::after {
-      content: "";
-      position: absolute;
-      top: 0; left: 0; right: 0; bottom: 0;
-      background: rgba(0, 0, 0, 0.6);
-    }
-
-    header h1, header p {
-      position: relative;
-      z-index: 1;
     }
 
     header h1 {
@@ -52,7 +35,6 @@
       margin-top: 1rem;
     }
 
-    /* Osioiden tyyli */
     section {
       max-width: 900px;
       margin: auto;
@@ -61,7 +43,7 @@
 
     h2 {
       text-align: center;
-      color: #d40000;
+      color: #fff;
       font-size: 2rem;
       margin-bottom: 1.5rem;
     }
@@ -71,12 +53,10 @@
       color: #ccc;
     }
 
-    /* Esittelyteksti */
     #esittely p {
       text-align: justify;
     }
 
-    /* Yhteystiedot */
     #yhteys {
       background: #1a1a1a;
       border-top: 1px solid #333;
@@ -92,7 +72,15 @@
       color: #fff;
     }
 
-    /* Alaosa */
+    a {
+      color: #eaeaea;
+      text-decoration: none;
+    }
+
+    a:hover {
+      text-decoration: underline;
+    }
+
     footer {
       text-align: center;
       padding: 2rem;
@@ -101,17 +89,6 @@
       font-size: 0.9rem;
     }
 
-    /* Hover-efekti sähköpostille */
-    a {
-      color: #d40000;
-      text-decoration: none;
-    }
-
-    a:hover {
-      text-decoration: underline;
-    }
-
-    /* Responsiivisuus */
     @media (max-width: 600px) {
       header h1 {
         font-size: 2rem;
