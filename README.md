@@ -6,10 +6,6 @@
   <title>Black Rose Tattoo</title>
   
   <style>
-      * {
-    box-sizing: border-box;
-    text-decoration: none ; 
-  }
     
     body {
       margin: 0;
@@ -24,6 +20,7 @@
       text-align: center;
       color: #fff;
       padding: 5rem 1rem;
+      text-decoration: none
     }
 
     header h1 {
@@ -32,6 +29,7 @@
       margin: 0;
       font-weight: 700;
       text-transform: uppercase;
+      text-decoration: none
     }
 
     header p {
