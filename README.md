@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="fi">
 <head>
   <meta charset="UTF-8" />
@@ -6,7 +5,6 @@
   <title>Black Rose Tattoo</title>
   
   <style>
-    /* Yleiset asetukset */
     * {
       box-sizing: border-box;
     }
@@ -20,7 +18,6 @@
     }
 
     header {
-      background-image: url('https://images.unsplash.com/photo-1589571894960-20bbe2828d0a?auto=format&fit=crop&w=1200&q=60');
       background-size: cover;
       background-position: center;
       text-align: center;
