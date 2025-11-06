@@ -8,7 +8,7 @@
   <style>
       * {
     box-sizing: border-box;
-    text-decoration: none !important; 
+    text-decoration: none ; 
   }
     
     body {
