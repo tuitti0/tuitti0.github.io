@@ -20,20 +20,6 @@
       text-align: center;
     }
 
-
-    nav {
-      background: #222;
-      padding: 1rem;
-      text-align: center;
-    }
-
-    nav a {
-      color: white;
-      margin: 1rem;
-      text-decoration: none;
-      font-weight: bold;
-    }
-
     section {
       padding: 1rem;
     }
@@ -47,10 +33,6 @@
     <p>Persoonallisia tatuointeja – ammattitaidolla ja sydämellä</p>
   </header>
 
-  <nav>
-    <a href="#esittely">Esittely</a>
-    <a href="#yhteys">Yhteystiedot</a>
-  </nav>
 
   <section id="esittely">
     <h2>Tervetuloa!</h2>
