@@ -61,9 +61,7 @@
       text-align: center;
     }
 
-    p {
-      font-size: 1rem;
-    }
+
 
 
     a {
