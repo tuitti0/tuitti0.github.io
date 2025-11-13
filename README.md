@@ -74,9 +74,7 @@
       text-decoration: none;
     }
 
-    a:hover {
-      text-decoration: none;
-    }
+
 
 
       section {
@@ -92,7 +90,7 @@
     <p>Persoonallisia tatuointeja – ammattitaidolla ja sydämellä</p>
   </header>
 
-  <section id="esittely">
+  <section >
     <h2>Tervetuloa</h2>
     <p>
       Black Rose Tattoo on yhden henkilön tatuointistudio, joka toimii kotoisassa ja rauhallisessa ympäristössä.
