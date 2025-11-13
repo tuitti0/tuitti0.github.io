@@ -1,5 +1,5 @@
 
-<html lang="fi">
+  <meta charset="UTF-8" />
   
   <style>
     
