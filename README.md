@@ -65,14 +65,11 @@
       font-size: 1rem;
     }
 
-    strong {
-      color: #fff;
+
+    a {
+      color: #eaeaea;
+      text-decoration: none;
     }
-
-
-
-
-
 
       section {
         padding: 2rem 1rem;
