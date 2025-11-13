@@ -1,6 +1,6 @@
 <html lang="fi">
 <head>
-  <title>Black Rose Tattoo</title>
+
   
   <style>
     
