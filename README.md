@@ -69,10 +69,7 @@
       color: #fff;
     }
 
-    a {
-      color: #eaeaea;
-      text-decoration: none;
-    }
+
 
 
 
