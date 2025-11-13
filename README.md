@@ -50,18 +50,18 @@
       color: #ccc;
     }
 
-    #esittely p {
+    p {
       text-align: justify;
     }
 
-    #yhteys {
+    {
       background: #1a1a1a;
       border-top: 1px solid #333;
       border-bottom: 1px solid #333;
       text-align: center;
     }
 
-    #yhteys p {
+    p {
       font-size: 1rem;
     }
 
@@ -92,7 +92,7 @@
     <p>Persoonallisia tatuointeja – ammattitaidolla ja sydämellä</p>
   </header>
 
-  <section id="esittely">
+  <section >
     <h2>Tervetuloa</h2>
     <p>
       Black Rose Tattoo on yhden henkilön tatuointistudio, joka toimii kotoisassa ja rauhallisessa ympäristössä.
