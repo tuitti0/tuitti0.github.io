@@ -50,8 +50,7 @@
       color: #ccc;
     }
 
-    p {
-      text-align: justify;
+
     }
 
     {
