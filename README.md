@@ -45,12 +45,6 @@
       margin-bottom: 1.5rem;
     }
 
-    p {
-      font-size: 1rem;
-      color: #ccc;
-    }
-
-
     }
 
     {
