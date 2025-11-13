@@ -38,11 +38,7 @@
       padding: 4rem 2rem;
     }
 
-    h2 {
-      text-align: center;
-      color: #fff;
-      font-size: 2rem;
-      margin-bottom: 1.5rem;
+
     }
 
     }
