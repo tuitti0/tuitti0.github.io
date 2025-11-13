@@ -1,4 +1,4 @@
-<html lang="fi">
+<html>
 <head>
 
   
