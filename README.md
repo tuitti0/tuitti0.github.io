@@ -59,7 +59,7 @@
       background: #1a1a1a;
       border-top: 1px solid #333;
       border-bottom: 1px solid #333;
-      text-align: center;
+
     }
 
     #y p {
