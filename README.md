@@ -93,7 +93,7 @@
     <p>Persoonallisia tatuointeja – ammattitaidolla ja sydämellä</p>
   </header>
 
-  <section id="e">
+  <section >
     <h2>Tervetuloa</h2>
     <p>
       Black Rose Tattoo on yhden henkilön tatuointistudio, joka toimii kotoisassa ja rauhallisessa ympäristössä.
