@@ -54,14 +54,12 @@
       color: #ccc;
     }
 
-    #esittely p {
+    #e p {
       text-align: justify;
     }
 
-    #yhteys {
+    #y{
       background: #1a1a1a;
-      border-top: 1px solid #333;
-      border-bottom: 1px solid #333;
       text-align: center;
     }
 
@@ -96,7 +94,7 @@
     <p>Persoonallisia tatuointeja – ammattitaidolla ja sydämellä</p>
   </header>
 
-  <section id="esittely">
+  <section id="e">
     <h2>Tervetuloa</h2>
     <p>
       Black Rose Tattoo on yhden henkilön tatuointistudio, joka toimii kotoisassa ja rauhallisessa ympäristössä.
@@ -112,7 +110,7 @@
     </p>
   </section>
 
-  <section id="yhteys">
+  <section id="y">
     <h2>Yhteystiedot</h2>
     <p><strong>Puhelin:</strong> 040 123 4567</p>
     <p><strong>Sähköposti:</strong> noora.blackrose@gmail.com</p>
