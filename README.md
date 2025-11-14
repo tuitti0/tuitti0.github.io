@@ -63,7 +63,7 @@
       text-align: center;
     }
 
-    #yhteys p {
+    #y p {
       font-size: 1rem;
     }
 
