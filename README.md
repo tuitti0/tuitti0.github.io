@@ -79,14 +79,14 @@
     }
 
     a:hover {
-      text-decoration: underline;
+      text-decoration: none;
     }
 
 
       section {
         padding: 2rem 1rem;
       }
-    }
+    
   </style>
 </head>
 <body>
