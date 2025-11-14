@@ -61,6 +61,29 @@ Ota yhteyttä ja kerro ideastasi – suunnitellaan yhdessä jotain ainutlaatuist
 
 
 </body>
+</html>Työskentelen kotistudiolta käsin, joten saat henkilökohtaista palvelua ilman kiirettä tai hälinää.
+<p>
+Jokainen asiakas on minulle tärkeä, ja panostan siihen, että tatuointikokemus on turvallinen, huolellisesti suunniteltu ja juuri sinun näköisesi.
+</p>
+Studiolla noudatetaan tarkkoja hygieniakäytäntöjä ja käytössäni ovat laadukkaat, ammattilaistason välineet.
+Oli toiveesi sitten pieni symboli tai suurempi kokonaisuus, lähestyn jokaista projektia intohimolla ja taiteellisella otteella.
+Teen tatuointeja ajanvarauksella.
+Ota yhteyttä ja kerro ideastasi – suunnitellaan yhdessä jotain ainutlaatuista.
+    </p>
+  </section>
+
+
+
+  <section id="yhteys">
+    <h2>Yhteystiedot</h2>
+    <p><strong>Puhelin:</strong> 040 123 4567</p>
+    <p><strong>Sähköposti:</strong> noora.blackrose@gmail.com</p>
+    <p><strong>Ajanvaraus:</strong> Ota yhteyttä puhelimitse tai sähköpostilla</p>
+  </section>
+
+
+
+</body>
 </html>    </p>
   </section>
 
