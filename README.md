@@ -1,4 +1,3 @@
-
 <html lang="fi">
 <head>
   <meta charset="UTF-8" />
@@ -6,8 +5,6 @@
   <title>Black Rose Tattoo</title>
   
   <style>
-  
-
     body {
       margin: 0;
       font-family: Arial;
@@ -27,13 +24,11 @@
       font-size: 3rem;
       letter-spacing: 2px;
       font-weight: 700;
- 
     }
 
     header p {
       font-size: 1.2rem;
       color: #dcdcdc;
-
     }
 
     section {
@@ -54,18 +49,18 @@
       color: #ccc;
     }
 
-    #esittely p {
+    #e p {
       text-align: justify;
     }
 
-    #yhteys {
+    
+    #y {
       background: #1a1a1a;
-      border-top: 1px solid #333;
-      border-bottom: 1px solid #333;
       text-align: center;
+      padding: 4rem 2rem;
     }
 
-    #yhteys p {
+    #y p {
       font-size: 1rem;
     }
 
@@ -81,12 +76,6 @@
     a:hover {
       text-decoration: underline;
     }
-
-
-      section {
-        padding: 2rem 1rem;
-      }
-    }
   </style>
 </head>
 <body>
@@ -96,23 +85,23 @@
     <p>Persoonallisia tatuointeja – ammattitaidolla ja sydämellä</p>
   </header>
 
-  <section id="esittely">
+  <section id="e">
     <h2>Tervetuloa</h2>
     <p>
       Black Rose Tattoo on yhden henkilön tatuointistudio, joka toimii kotoisassa ja rauhallisessa ympäristössä.
       Työskentelen kotistudiolta käsin, joten saat henkilökohtaista palvelua ilman kiirettä tai hälinää.
     </p>
     <p>
-      Jokainen asiakas on minulle tärkeä, ja panostan siihen, että tatuointikokemus on turvallinen, huolellisesti suunniteltu ja         juuri sinun näköisesi.
+      Jokainen asiakas on minulle tärkeä, ja panostan siihen, että tatuointikokemus on turvallinen, huolellisesti suunniteltu ja juuri sinun näköisesi.
       Studiolla noudatetaan tarkkoja hygieniakäytäntöjä ja käytössäni ovat laadukkaat, ammattilaistason välineet.
     </p>
     <p>
-      Oli toiveesi sitten pieni symboli tai suurempi kokonaisuus, lähestyn jokaista projektia intohimolla ja taiteellisella              otteella.
+      Oli toiveesi sitten pieni symboli tai suurempi kokonaisuus, lähestyn jokaista projektia intohimolla ja taiteellisella otteella.
       Teen tatuointeja ajanvarauksella — ota yhteyttä ja kerro ideastasi, niin suunnitellaan yhdessä jotain ainutlaatuista.
     </p>
   </section>
 
-  <section id="yhteys">
+  <section id="y">
     <h2>Yhteystiedot</h2>
     <p><strong>Puhelin:</strong> 040 123 4567</p>
     <p><strong>Sähköposti:</strong> noora.blackrose@gmail.com</p>
