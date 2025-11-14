@@ -109,7 +109,7 @@
     </p>
   </section>
 
-  <section id="y">
+  <section >
     <h2>Yhteystiedot</h2>
     <p><strong>Puhelin:</strong> 040 123 4567</p>
     <p><strong>Sähköposti:</strong> noora.blackrose@gmail.com</p>
