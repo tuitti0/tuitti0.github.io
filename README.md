@@ -1,9 +1,13 @@
-<html>
-<head>
 
+<html lang="fi">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Black Rose Tattoo</title>
   
   <style>
-    
+  
+
     body {
       margin: 0;
       font-family: Arial;
@@ -17,28 +21,67 @@
       text-align: center;
       color: #fff;
       padding: 5rem 1rem;
-      text-decoration: none
     }
 
     header h1 {
       font-size: 3rem;
       letter-spacing: 2px;
-      margin: 0;
       font-weight: 700;
+ 
     }
 
     header p {
       font-size: 1.2rem;
       color: #dcdcdc;
+
     }
 
+    section {
+      max-width: 900px;
+      margin: auto;
+      padding: 4rem 2rem;
+    }
 
+    h2 {
+      text-align: center;
+      color: #fff;
+      font-size: 2rem;
+      margin-bottom: 1.5rem;
+    }
 
+    p {
+      font-size: 1rem;
+      color: #ccc;
+    }
+
+    #e p {
+      text-align: justify;
+    }
+
+    #y {
+      background: #1a1a1a;
+      border-top: 1px solid #333;
+      border-bottom: 1px solid #333;
+      text-align: center;
+    }
+
+    #y p {
+      font-size: 1rem;
+    }
+
+    strong {
+      color: #fff;
+    }
 
     a {
       color: #eaeaea;
       text-decoration: none;
     }
+
+    a:hover {
+      text-decoration: underline;
+    }
+
 
       section {
         padding: 2rem 1rem;
@@ -53,7 +96,7 @@
     <p>Persoonallisia tatuointeja – ammattitaidolla ja sydämellä</p>
   </header>
 
-  <section >
+  <section id="e">
     <h2>Tervetuloa</h2>
     <p>
       Black Rose Tattoo on yhden henkilön tatuointistudio, joka toimii kotoisassa ja rauhallisessa ympäristössä.
@@ -69,7 +112,7 @@
     </p>
   </section>
 
-  <section >
+  <section id="y">
     <h2>Yhteystiedot</h2>
     <p><strong>Puhelin:</strong> 040 123 4567</p>
     <p><strong>Sähköposti:</strong> noora.blackrose@gmail.com</p>
