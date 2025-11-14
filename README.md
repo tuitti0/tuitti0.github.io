@@ -93,7 +93,7 @@
     <p>Persoonallisia tatuointeja – ammattitaidolla ja sydämellä</p>
   </header>
 
-  <section >
+  <section id="e">
     <h2>Tervetuloa</h2>
     <p>
       Black Rose Tattoo on yhden henkilön tatuointistudio, joka toimii kotoisassa ja rauhallisessa ympäristössä.
@@ -109,7 +109,7 @@
     </p>
   </section>
 
-  <section >
+  <section id="y" >
     <h2>Yhteystiedot</h2>
     <p><strong>Puhelin:</strong> 040 123 4567</p>
     <p><strong>Sähköposti:</strong> noora.blackrose@gmail.com</p>
