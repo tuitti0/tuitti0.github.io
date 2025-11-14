@@ -3,10 +3,10 @@
 <head>
   
   <style>
-
-    * {
-  text-decoration: none !important;
-    }
+  * {
+    box-sizing: border-box;
+    text-decoration: none !important; 
+  }
 
     body {
       margin: 0;
