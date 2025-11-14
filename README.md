@@ -36,11 +36,7 @@
 
     }
 
-    section {
-      max-width: 900px;
-      margin: auto;
-      padding: 4rem 2rem;
-    }
+
 
     h2 {
       text-align: center;
