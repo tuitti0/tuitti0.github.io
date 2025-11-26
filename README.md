@@ -103,8 +103,8 @@
 </section>
 
 <script>
-const username="YOUR-USERNAME";
-const repo="YOUR-REPO";
+const username="tuitti0";
+const repo="tuitti0.github.io";
 
 fetch(`https://github.com/tuitti0/tuitti0.github.io/issues/new`)
   .then(r=>r.json())
