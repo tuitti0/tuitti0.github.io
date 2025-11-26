@@ -51,18 +51,18 @@
       color: #ccc;
     }
 
-    #e p {
+    e p {
       text-align: justify;
     }
 
-    #y {
+    y {
       background: #1a1a1a;
       border-top: 1px solid #333;
       border-bottom: 1px solid #333;
 
     }
 
-    #y p {
+    y p {
       font-size: 1rem;
     }
 
@@ -85,6 +85,8 @@
       }
     }
   </style>
+
+
 
 <section id="vieraskirja">
   <h2>Vieraskirja</h2>
@@ -135,6 +137,8 @@ fetch(`https://api.github.com/repos/${username}/${repo}/issues`)
   color:#ccc;
 }
 </style>
+
+
   
 </head>
 <body>
