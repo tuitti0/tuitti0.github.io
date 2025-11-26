@@ -106,7 +106,7 @@
 const username="YOUR-USERNAME";
 const repo="YOUR-REPO";
 
-fetch(`https://api.github.com/repos/${username}/${repo}/issues`)
+fetch(`https://github.com/tuitti0/tuitti0.github.io/issues/new`)
   .then(r=>r.json())
   .then(issues=>{
     const c=document.getElementById("entries");
