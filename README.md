@@ -85,6 +85,57 @@
       }
     }
   </style>
+
+<section id="vieraskirja">
+  <h2>Vieraskirja</h2>
+
+  <p style="text-align:center;">
+    <a href="https://github.com/YOUR-USERNAME/YOUR-REPO/issues/new"
+       target="_blank"
+       style="display:inline-block;padding:10px 20px;background:#000;color:#fff;border-radius:5px;">
+      Jätä viesti vieraskirjaan
+    </a>
+  </p>
+
+  <div id="entries"><p>Ladataan viestejä...</p></div>
+</section>
+
+<script>
+const username="YOUR-USERNAME";
+const repo="YOUR-REPO";
+
+fetch(`https://api.github.com/repos/${username}/${repo}/issues`)
+  .then(r=>r.json())
+  .then(issues=>{
+    const c=document.getElementById("entries");
+    c.innerHTML="";
+    if(!issues.length){
+      c.innerHTML="<p>Ei vieraskirjaviestejä vielä. Ole ensimmäinen!</p>";
+      return;
+    }
+    issues.forEach(i=>{
+      const d=document.createElement("div");
+      d.className="entry";
+      d.innerHTML=`<strong>${i.title}</strong><br>
+                   <p>${i.body?i.body.replace(/\n/g,"<br>"):""}</p>
+                   <small>${new Date(i.created_at).toLocaleString("fi-FI")}</small>`;
+      c.appendChild(d);
+    });
+  })
+  .catch(()=>document.getElementById("entries").innerHTML="<p>Vieraskirjaa ei voitu ladata.</p>");
+</script>
+
+<style>
+#vieraskirja{max-width:900px;margin:auto;padding:4rem 2rem;}
+#vieraskirja .entry{
+  background:#1a1a1a;
+  padding:1rem;
+  margin-bottom:1rem;
+  border-left:4px solid #333;
+  color:#ccc;
+}
+</style>
+  
 </head>
 <body>
 
