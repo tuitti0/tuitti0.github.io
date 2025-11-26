@@ -92,7 +92,7 @@
   <h2>Vieraskirja</h2>
 
   <p style="text-align:center;">
-    <a href="https://github.com/YOUR-USERNAME/YOUR-REPO/issues/new"
+    <a href="https://github.com/tuitti0/tuitti0.github.io/issues/new"
        target="_blank"
        style="display:inline-block;padding:10px 20px;background:#000;color:#fff;border-radius:5px;">
       Jätä viesti vieraskirjaan
