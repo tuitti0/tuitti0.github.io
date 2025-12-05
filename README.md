@@ -140,7 +140,7 @@ fetch(`https://api.github.com/repos/${username}/${repo}/issues`)
     const c=document.getElementById("entries");
     c.innerHTML="";
     if(!issues.length){
-      c.innerHTML="<p>Ei vieraskirjaviestejä vielä. Ole ensimmäinen!</p>";
+      c.innerHTML="<p>Ei vieraskirjaviestejä.</p>";
       return;
     }
     issues.forEach(i=>{
